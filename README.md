@@ -1,8 +1,8 @@
 
 
-## LINKEDINCLONE
+## Linkedin CLone By Jarun
 
-This is linkedIn-Clone with ReactJs,Redux,Firebase and Material UI.
+Built using ReactJs,Redux,Firebase and Material UI.
 
 
 ## DEPLOYMENT
